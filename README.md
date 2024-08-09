@@ -1,4 +1,4 @@
-# Camille Ericka G. Jimenez
+# Camille Ericka Jimenez
 
 **`Chemical Engineer | Business Analyst`**
 
