@@ -31,4 +31,4 @@ Results-oriented Chemical Engineer with a Master's in Business Administration. E
 
 ## 🌱 Projects
 - [Sales Report: Data Pipeline and Power BI Dashboard](https://github.com/cegjimenez/sales-report.git): This project creates a data pipeline to transform Excel sales data into interactive Power BI visualizations. A Python script extracts data from multiple Excel worksheets and loads it into a PostgreSQL database as individual tables. Power BI connects to the database to generate dynamic sales dashboards.
-- [Best-Selling Singles: Web Scraping and Power BI Dashboard](https://github.com/cegjimenez/best-selling-singles.git): This project establishes a data pipeline to extract best-selling singles data from Wikipedia and load it into a PostgreSQL database. Power BI leverages this database to generate dynamic sales dashboards.
+- [Best-Selling Singles: Web Scraping and Power BI Dashboard](https://github.com/cegjimenez/best-selling-singles.git): This project establishes a data pipeline to extract best-selling singles data from a specified url and load it into a PostgreSQL database. Power BI leverages this database to generate dynamic sales dashboards.
