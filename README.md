@@ -16,8 +16,8 @@ Results-oriented Chemical Engineer with a Master's in Business Administration. E
 <br /> <br /> <br />
 
 ## 💼 Work Experience
-### Process Technician (Oct 2024 - Present)
-*Distileria Bago Inc. - Ginebra San Miguel Inc.*
+### Business Insights Analyst (Oct 2024 - Present)
+*Conifer Global Business Center, Inc.*
 &nbsp;
 <br />
 ### Process Technician (Aug 2020 - Oct 2024)
